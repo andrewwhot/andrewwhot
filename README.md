@@ -8,11 +8,11 @@ While I began my journey into statistical analysis with RStudio in my undergrad 
 In my time in both undergrad and graduate school, I've picked up a plethora of analytical methods to apply in business settings. These include:
 - Linear / Logistic Regression
 - Neural Networks (MLP)
-- Bagging
 - Decision Trees, Random Forest
 - Gradient Boosting
 - Support Vector Machine
 - Unsupervised Methods (PCA, t-SNE, ICA, Isolation Forests, One-Class SVM)
+- Unstructured Data (NLP, Sentiment Analysis, Topic Modeling, Self-Attention)
 
 Additionally, I have learned a number of optimization tools, such as:
 - Linear Programming (Gurobi, Simplex Method, Sensitivity Analysis)
